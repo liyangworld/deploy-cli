@@ -1,0 +1,32 @@
+{
+  "name": "@ly/deploy",
+  "version": "1.0.0",
+  "description": "自动化发布工具",
+  "bin": {
+    "deploy": "bin/cli.js"
+  },
+  "main": "lib/deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyangworld/deploy-cli.git"
+  },
+  "keywords": [
+    "自动化发布",
+    "vue",
+    "react",
+    "cli"
+  ],
+  "author": "liyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyangworld/deploy-cli/issues"
+  },
+  "homepage": "https://github.com/liyangworld/deploy-cli#readme",
+  "dependencies": {
+    "commander": "^3.0.1",
+    "shelljs": "^0.8.3"
+  }
+}
