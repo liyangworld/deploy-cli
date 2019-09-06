@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/liyangworld/deploy-cli#readme",
   "dependencies": {
+    "boxen": "^4.1.0",
     "commander": "^3.0.1",
+    "log-symbols": "^3.0.0",
     "shelljs": "^0.8.3"
   }
 }
