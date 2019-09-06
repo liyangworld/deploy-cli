@@ -1,6 +1,6 @@
 {
   "name": "deploy-this",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "自动化发布工具",
   "bin": {
     "deploy": "bin/cli.js"
@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/liyangworld/deploy-cli#readme",
   "dependencies": {
+    "boxen": "^4.1.0",
     "commander": "^3.0.1",
+    "log-symbols": "^3.0.0",
     "shelljs": "^0.8.3"
   }
 }
