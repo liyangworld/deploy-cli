@@ -1,6 +1,6 @@
 {
-  "name": "@ly/deploy",
-  "version": "1.0.0",
+  "name": "deploy-this",
+  "version": "1.1.0",
   "description": "自动化发布工具",
   "bin": {
     "deploy": "bin/cli.js"
@@ -20,7 +20,7 @@
     "cli"
   ],
   "author": "liyang",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/liyangworld/deploy-cli/issues"
   },
