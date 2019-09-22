@@ -1,6 +1,6 @@
 {
   "name": "deploy-this",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "自动化发布工具",
   "bin": {
     "deploy": "bin/cli.js"
